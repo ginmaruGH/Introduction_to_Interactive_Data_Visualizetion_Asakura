@@ -2,7 +2,7 @@
 
 [出版サイト](https://www.asakura.co.jp/detail.php?book_code=12258)
 
-[サポートサイト](https://github.com/plotly.dash.book/plotly-dash-book)
+[サポートサイト](https://github.com/plotly-dash-book/plotly-dash-book)
 
 ---
 
