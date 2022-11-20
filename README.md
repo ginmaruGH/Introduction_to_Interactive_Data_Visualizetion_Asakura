@@ -4,6 +4,9 @@
 
 [サポートサイト](https://github.com/plotly-dash-book/plotly-dash-book)
 
+- [Plotly Python](https://plotly.com/python/)
+  - [Python API reference for plotly](https://plotly.com/python-api-reference/index.html#python-api-reference-for-plotly)
+
 ---
 
 ## Ch.0 はじめに
@@ -281,3 +284,7 @@
   - A-7-1 Jupyter上でのアプリケーション作成
 - A-8 Dashアプリケーションのモジュール分割
   - A-8-1 モジュール分割
+
+## Reference
+
+- [3次元平行座標プロット](https://www.ism.ac.jp/editsec/toukei/pdf/55-1-069.pdf)
