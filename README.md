@@ -5,7 +5,11 @@
 [サポートサイト](https://github.com/plotly-dash-book/plotly-dash-book)
 
 - [Plotly Python](https://plotly.com/python/)
-  - [Python API reference for plotly](https://plotly.com/python-api-reference/index.html#python-api-reference-for-plotly)
+- [Python API reference for plotly](https://plotly.com/python-api-reference/index.html#python-api-reference-for-plotly)
+- [Dash Python User Guide](https://dash.plotly.com/)
+- [plotly/jupyter-dash](https://github.com/plotly/jupyter-dash)
+  - [Introducing JupyterDash](https://medium.com/plotly/introducing-jupyterdash-811f1f57c02e)
+  - [jupyter-dash/notebooks/getting_started.ipynb](https://github.com/plotly/jupyter-dash/blob/master/notebooks/getting_started.ipynb)
 
 ---
 
@@ -288,3 +292,6 @@
 ## Reference
 
 - [3次元平行座標プロット](https://www.ism.ac.jp/editsec/toukei/pdf/55-1-069.pdf)
+- [COVID-19のデータを使ったインタラクティブ可視化事例](https://junkudo-event-20210112.readthedocs.io/ja/latest/index.html)
+- [【保存版】Python Dash パーフェクトガイド](https://qiita.com/Yusuke_Pipipi/items/b74f269d112f180d2131)
+- [pandasは遅い！大量データの高速化、最適化のノウハウを公開！](https://propen.dream-target.jp/blog/pandas)
