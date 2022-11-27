@@ -5,8 +5,10 @@
 [サポートサイト](https://github.com/plotly-dash-book/plotly-dash-book)
 
 - [Plotly Python](https://plotly.com/python/)
-- [Python API reference for plotly](https://plotly.com/python-api-reference/index.html#python-api-reference-for-plotly)
+  - [Python API reference for plotly](https://plotly.com/python-api-reference/)
 - [Dash Python User Guide](https://dash.plotly.com/)
+  - [API Reference](https://dash.plotly.com/reference)
+  - [Dash Example Index](https://dash-example-index.herokuapp.com/)
 - [plotly/jupyter-dash](https://github.com/plotly/jupyter-dash)
   - [Introducing JupyterDash](https://medium.com/plotly/introducing-jupyterdash-811f1f57c02e)
   - [jupyter-dash/notebooks/getting_started.ipynb](https://github.com/plotly/jupyter-dash/blob/master/notebooks/getting_started.ipynb)
