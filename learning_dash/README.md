@@ -1,15 +1,79 @@
-# Learning Dash
+# [Dash Python User Guide](https://dash.plotly.com/)
 
-[Dash Python User Guide](https://dash.plotly.com/)
-
-[Medium Plotly](https://plotlygraphs.medium.com/)
-
-
----
-
-## References
-
-- [Introducing JupyterDash](https://medium.com/plotly/introducing-jupyterdash-811f1f57c02e)
-  - JupyterDashの紹介
-- [Build Real-Time Production Data Apps with Databricks & Plotly Dash](https://medium.com/plotly/build-real-time-production-data-apps-with-databricks-plotly-dash-269cb64b7575)
-  - DatabricksとPlotly Dashでリアルタイムのプロダクションデータアプリケーションを構築する
+- 01 What's Dash?
+  - []Introduction
+  - []2017 Announcement Essay
+  - []Dash App Gallery
+- 02 Dash Tutorial
+  - []Installation
+  - []Layout
+  - []Basic Callbacks
+  - []Interactive Graphing and Crossfiltering
+  - []Sharing Data Between Callbacks
+- 03 Dash Callbacks
+  - []Advanced Callbacks
+  - []Clientside Callbacks
+  - []Pattern-Matching Callbacks
+  - []Background Callbacks
+  - []Flexible Callback Signatures
+  - []Duplicate Callback Outputs
+  - []Determining Which Callback Input Changed
+  - []Long Callbacks
+  - []Callback Gotchas
+- 04 Open Source Component Libraries
+  - []Dash Core Components
+  - []Dash HTML Components
+  - []Dash DataTable
+  - []Dash Bio
+  - []Dash DAQ
+  - []Dash Image Annotations
+  - []Dash Canvas
+  - []Dash Slicer
+  - []Dash Cytoscape
+  - []Dash VTK
+  - []Dash Bootstrap Components
+  - []Dash Community Components
+- 05 Enterprise Component Libraries
+  - []Dashboard Engine
+  - []Dash Design Kit
+  - []Dash Ag-Grid
+  - []Dash Notes
+- 06 Creating Your Own Components
+  - []React for Python Developers
+  - []Build Your Own Components
+  - []All-in-One Components
+  - []Integrating D3.js into Dash Components
+- 07 Beyond the Basics
+  - []Performance
+  - []Live Updates
+  - ["o"]07.03 Adding CSS & JS and Overriding the Page-Load Template
+  - ["o"]07.04 Multi-Page Apps and URL Support
+  - []Persisting User Preferences & Control Values
+  - []Dash Dev Tools
+  - []Loading States
+  - []Dash Testing
+  - []Dash App Lifecycle
+  - []Component Argument Order
+  - []Component Properties
+  - []Background Callback Caching
+  - []API Reference
+  - []Dash 2.0 Migration
+  - []Dash 1.0.0 Migration
+- 08 Ecosystem Integration
+  - []HoloViews
+  - []Parallel Computing with Dash and Dask
+  - []Scalable Remote Computing with Dash, Dask, and Coiled
+- 09 Production Capabilities
+  - []Deploy your Dash App
+  - []Add Authentication to your Dash App
+  - []Embed your Dash App in other Websites
+  - []Snapshot Engine
+  - []Job Queue
+  - []Dash Enterprise Workspaces
+  - []Dash Enterprise & Databricks
+  - []Dash Enterprise & Snowflake
+  - []Dash Enterprise Guide
+- 10 Getting Help
+  - []FAQs
+  - []The Dash Community Forum
+  - []Support and Contact
